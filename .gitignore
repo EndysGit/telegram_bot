@@ -1,5 +1,5 @@
 # Build dirs
-console_build_debug/*
+build*/*
 
 # User files
 *.user
