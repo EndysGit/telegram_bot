@@ -112,6 +112,7 @@ int main()
 
         auto invoke_async_timer_with_bind_function{true};
         async_timer_with_bind_func_example(io_context, invoke_async_timer_with_bind_function);
+
         return 0;
     }
     catch (std::exception& e)
