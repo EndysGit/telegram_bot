@@ -1,3 +1,9 @@
+# Build dirs
+console_build_debug/*
+
+# User files
+*.user
+
 # Prerequisites
 *.d
 
