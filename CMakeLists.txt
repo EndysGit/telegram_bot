@@ -4,6 +4,7 @@ project(telegram_bot LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_SOURCE_DIR /media/endyxx/data_hub/Development/cpp_projects/telegram_bot_repo)
 
 if (MSVC)
     add_compile_options(\W4)
